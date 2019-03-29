@@ -17,4 +17,4 @@ request==1.0.2
 requests==2.19.1
 virtualenv==16.0.0
 gunicorn==19.6.0
-
+mysqlclient==1.4.2
